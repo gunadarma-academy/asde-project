@@ -9,6 +9,7 @@
 | Person | person@website.com | [@name](https://github.com/name)
 | Person | person@website.com | [@name](https://github.com/name)
 | Person | person@website.com | [@name](https://github.com/name)
+| Person | person@website.com | [@name](https://github.com/name)
 
 --------------------------------------------------
 
