@@ -52,3 +52,9 @@ For the most updated notes, see <https://github.com/gunadarma-academy/ASDE>. Thi
 + Presentation
   + Present the result to the class.
   + The winner will be chosen.
+
+--------------------------------------------------
+
+## License
+
+See [LICENSE.md](LICENSE.md)
